@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://github.com/Pearsheep17/pearsheep17.github.io.git/sitemap.xml
